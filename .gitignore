@@ -3,6 +3,9 @@
 .classpath
 .settings/
 
+# vs code
+.vscode/
+
 # Maven
 target/
 dependency-reduced-pom.xml
